@@ -4,6 +4,8 @@ This repository takes us through the full reinforcement learning landscape for 2
 
 copy the Repo and start going through the different Agents starting at A and going down the alphabet.
 
+This Projekt is currently unfinnished and on standby.
+
 Have fun leaning :D
 
 childish curiosity without expectations is what makes life worth living!
